@@ -1,0 +1,24 @@
+{
+  "name": "HamidAkhavan",
+  "homepage": "https://github.com/Hkarimi561/HamidAkhavan",
+  "authors": [
+    "Hamidreza Karimi <hkarimi561@gmail.com>"
+  ],
+  "description": "this is a personal website",
+  "main": "index.html",
+  "keywords": [
+    "personal",
+    "hamid",
+    "akhavan",
+    "developer"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
